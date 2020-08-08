@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to gungdm
 
 ## Lets get started
@@ -11,3 +12,8 @@ This page is my short story about code, experiences, and what i interest with. W
 
 
 
+=======
+
+
+# Welcome to gungdm.github.io
+>>>>>>> f44e193f9efe08e567382d76c500c40abdb5c496
